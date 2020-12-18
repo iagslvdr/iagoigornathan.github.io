@@ -1,0 +1,47 @@
+.menu-principal{
+    background-image: url("./imagens/atividadefisica_redes.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    width:98%;
+    padding: 2px;
+    border: solid green 10px;
+    height: 130px;
+    font-size: large;
+}
+.menu-principal1{
+    background-image: url("./imagens/musculacao.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    width:98%;
+    padding: 2px;
+    border: solid green 10px;
+    height: 130px;
+    font-size: large;
+}
+h1{
+    color: red;
+}
+p{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+}
+body{
+    background-color: pink;
+}
+table,th,td{
+    border-width: 2px;
+    border-style:  solid;
+    border-color: black;
+    padding: 20px;
+}
+button:hover{
+    transition-duration: 0,8s;
+    border-top: 5px solid red;
+  
+}
+button{
+    background-color: green;
+    color: white;
+    width:150px;
+    height: 50px;
+}
